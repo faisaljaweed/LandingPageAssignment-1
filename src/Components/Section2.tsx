@@ -18,6 +18,7 @@ import "slick-carousel/slick/slick-theme.css";
 import BannerSlider from './BannerSlider';
 import Section3 from './Section3';
 import Section4 from './Section4';
+import Footer from './Footer';
 const settings = {
   dots: true,
   infinite: true,
@@ -131,6 +132,7 @@ export default function Section2() {
       <Section3/>
       <BannerSlider/>
       <Section4/>
+      <Footer/>
     </div>
   )
 }
