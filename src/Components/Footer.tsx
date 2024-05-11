@@ -6,7 +6,7 @@ export default function Footer() {
       <footer className="flex md:gap-8 pt-[50px] pb-[50px]  md:pt-[100px] md:pb-[100px] ">
         <div className="pl-5">
           <h5 className="font-bold text-[8px]">FurniLux</h5>
-          <p className="md:text-[8px] text-[6px] ">Designing Dreams Crafting Comfort</p>
+          <p className="md:text-[8px] text-[5px] ">Designing Dreams Crafting Comfort</p>
           <ul>
             <li className="md:text-[8px] text-[6px]">
               {" "}
