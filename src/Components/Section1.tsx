@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Section2 from "./Section2";
 import profileimg from "../images/data.jpeg";
 
