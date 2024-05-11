@@ -28,7 +28,7 @@ const settings = {
   };
 export default function BannerSlider() {
   return (
-    <div>
+    <div className="pl-4 pr-4">
       <Slider {...settings}>
         <section className="md:flex md:justify-center md:items-center">
             <img src={img3} className="max-w-full h-auto mx-auto"/>

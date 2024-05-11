@@ -25,6 +25,8 @@ const settings = {
   speed: 500,
   slidesToShow: 3,
   slidesToScroll: 1,
+  // cssEase:"linear",
+  // margin:4,
   responsive: [
     {
       breakpoint: 1024, // Medium devices (tablets, 768px and up)
@@ -118,7 +120,7 @@ export default function Section2() {
             <img src={img6} className='max-w-full h-auto mx-auto'/>
           </div>
           <div className=' flex justify-center'>
-            <img src={img4} className='max-w-full h-auto mx-2'/>
+            <img src={img4} className='max-w-full h-auto mx-auto'/>
           </div>
           <div className=' flex justify-center'>
             <img src={img5} className='max-w-full h-auto mx-auto'/>
